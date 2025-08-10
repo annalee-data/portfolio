@@ -5,4 +5,4 @@ Hello world! This is a collection of my SQL and visualization projects!
 1. **Student Performance Dashboard (Power BI)**
    - Interactive dashboard analyzing student performance data
    - [View Dashboard](link)
-   - [View Repository](link)
+   - [View Repository](https://github.com/annalee-data/student-powerbi.git)
