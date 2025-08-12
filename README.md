@@ -1,5 +1,5 @@
 # Anna Lee - Analytics Portfolio
-Hello world! This is a collection of my SQL and visualization projects!
+Hello world! This is a collection of my visualization projects!
 ## Projects
 
 1. **Student Performance Dashboard (Power BI)**
