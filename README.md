@@ -8,4 +8,4 @@ Hello world! This is a collection of my projects showing my skills!
 
 2. **Retail Company Revenue Forecasting (Microsoft Excel)**
    - Profitability Forecasting and Sales Analysis
-   - [View Repository](
+   - [View Repository](README.md)
