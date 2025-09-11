@@ -4,7 +4,7 @@ I'm a data anaytics student and assistant manager with a passion for turning raw
 
 ## 🗃️ Projects
 
-1. **Hospital Patient & Doctor Records Project (SQL)**
+1. **Hospital Records Analysis (SQL)**
    - *in progress...*
   
 3. **Student Performance Dashboard (Power BI)**
