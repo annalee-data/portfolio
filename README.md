@@ -4,10 +4,14 @@ I'm a data anaytics student and assistant manager with a passion for turning raw
 
 ## 🗃️ Projects
 
-1. **Student Performance Dashboard (Power BI)**
+1. **Hospital Patient & Doctor Records Project (SQL)**
+   - *in progress...*
+  
+3. **Student Performance Dashboard (Power BI)**
    - Dashboard analyzing student performance data
    - [View Repository](https://github.com/annalee-data/studentperformance-powerbi/blob/main/README.md)
 
-2. **Retail Company Revenue Forecasting (Microsoft Excel)**
+4. **Retail Company Revenue Forecasting (Microsoft Excel)**
    - Profitability Forecasting and Sales Analysis
    - [View Repository](https://github.com/annalee-data/retailrevenue-excel/blob/main/README.md)
+
