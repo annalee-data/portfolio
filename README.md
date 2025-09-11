@@ -1,5 +1,7 @@
 # Anna Lee - Analytics Portfolio
-Hello world! This is a collection of my projects showing my skills!
+### About me
+I'm a data anaytics student and assistant manager with a passion for turning raw information into clear, actionable insights. My experience blends hands-on analytics projects with real-world leadership and project management skills, giving me both the technical ability to solve problems and the organizational skills to deliver results. I enjoy building dashboards, modeling data, and finding patterns that help people make smarter decisions. Currently, I'm working toward graduation while expanding my career.
+
 ## 🗃️ Projects
 
 1. **Student Performance Dashboard (Power BI)**
