@@ -6,6 +6,7 @@ I'm a data anaytics student and assistant manager with a passion for turning raw
 
 1. **Hospital Records Analysis (SQL)**
    - *in progress...*
+   - [View Repository]()
   
 3. **Student Performance Dashboard (Power BI)**
    - Dashboard analyzing student performance data
