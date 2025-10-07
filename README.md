@@ -5,7 +5,7 @@ I'm a data anaytics student and assistant manager with a passion for turning raw
 ## 🗃️ Projects
 
 1. **Hospital Records Analysis (SQL)**
-   - *in progress...*
+   - SQL Queries analyzing hospital records
    - [View Repository](https://github.com/annalee-data/hospitalrecords-sql/blob/main/README.md)
   
 3. **Student Performance Dashboard (Power BI)**
