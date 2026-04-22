@@ -1,6 +1,15 @@
 # Anna Lee - Analytics Portfolio
-### About me
-I'm a data anaytics student and assistant manager with a passion for turning raw information into clear, actionable insights. My experience blends hands-on analytics projects with real-world leadership and project management skills, giving me both the technical ability to solve problems and the organizational skills to deliver results. I enjoy building dashboards, modeling data, and finding patterns that help people make smarter decisions. Currently, I'm working toward graduation while expanding my career.
+## About Me
+
+I'm a data analytics student finishing my B.S. at Southern New Hampshire 
+University (GPA 3.7), with hands-on experience in operations, inventory 
+control, and regulatory compliance. My background isn't purely technical — 
+I came from operations and management, which means I think about data 
+practically. I'm not just interested in what the numbers say, but what 
+they mean for how things actually run.
+
+I build projects around real business questions, document my process, and 
+focus on findings that are actually useful — not just queries that work.
 
 ## 🗃️ Projects
 
