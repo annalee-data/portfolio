@@ -1,8 +1,7 @@
 # Anna Lee - Analytics Portfolio
 ## About Me
 
-I'm a data analytics student finishing my B.S. at Southern New Hampshire 
-University (GPA 3.7), with hands-on experience in operations, inventory 
+I have hands-on experience in operations, inventory 
 control, and regulatory compliance. My background isn't purely technical,
 I came from operations and management, which means I think about data 
 practically. I'm not just interested in what the numbers say, but what 
